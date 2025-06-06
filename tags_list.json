@@ -1,0 +1,5 @@
+{
+  "material": ["WS2", "Graphene", "MoS2"],
+  "thickness": ["monolayer", "bilayer", "few-layer"],
+  "used": ["yes", "no"]
+}

@@ -1,0 +1,5 @@
+{
+  "use_production_db": false,
+  "test_db_path": "test/test_metadata.db",
+  "prod_db_path": "G:/Shared drives/Nanowave Team Drive/Fab/2DLibrary/Database/metadata.db"
+}
